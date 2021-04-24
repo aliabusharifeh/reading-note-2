@@ -1,1 +1,1 @@
-# reading-note 2
+# reading-notes 2
