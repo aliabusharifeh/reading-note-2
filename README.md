@@ -1,7 +1,9 @@
 # Code 201 Reading Notes
+**this website is for the reading notes in 201 class**
+
 
 | reads    | links    |
-| read01   | [html&j.s](read01)|
+| read01   |[html&j.s](read01)|
 | read02   |[](read02)|
 | read03   |[](read03)|
 | read04   |[](read04)|
