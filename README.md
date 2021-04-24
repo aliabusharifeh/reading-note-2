@@ -1,1 +1,1 @@
-# readinh-note-2
+# reading-note 2
