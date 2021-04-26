@@ -2,7 +2,7 @@
 **this website is for the reading notes in 201 class**
 
 
-| classes     | links    |
+| classes   | links    |
 | class01   |[html,j.s](class01)|
 | calss02   |[html,css,js](class02)|
 | class03   |[](class03)|
