@@ -6,7 +6,11 @@
 | class01   |[html,j.s](class01)|
 | calss02   |[html,css,js](class02)|
 | class03   |[html.js](class03)|
+<<<<<<< HEAD
 | class04   |[html(links ,layout).js(fun,meth,obj)](read04)|
+=======
+| class04   |[html(links ,layout).js(func,meth,obj)](read04)|
+>>>>>>> bce5ac83c414fbd7b7bdae3974d26c066e129466
 | class05   |[](read05)|
 | class06   |[](read06)|
 | class07   |[](read07)|
