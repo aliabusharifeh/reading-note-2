@@ -6,7 +6,7 @@
 | class01   |[html,j.s](class01)|
 | calss02   |[html,css,js](class02)|
 | class03   |[html.js](class03)|
-| class04   |[html.js](read04)|
+| class04   |[html/js](class04)|
 | class05   |[](read05)|
 | class06   |[](read06)|
 | class07   |[](read07)|
