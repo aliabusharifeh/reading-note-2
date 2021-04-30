@@ -7,7 +7,7 @@
 | calss02   |[html,css,js](class02)|
 | class03   |[html.js](class03)|
 | class04   |[html/js](class04)|
-| class05   |[](read05)|
+| class05   |[html(image.text.color)](class05)|
 | class06   |[](read06)|
 | class07   |[](read07)|
 | class08   |[](read08)|
