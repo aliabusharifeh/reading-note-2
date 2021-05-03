@@ -6,8 +6,8 @@
 | class05   |[html(image.text.color)](class05)|
 | class06   |[JS(Object,the Dom)](class06)|
 | class07   |[Tables,Constructor Functions](class07)|
-| class08   |[](class08)|
-| class09   |[](class09)|
+| class08   |[layout](class08)|
+| class09   |[forms&events](class09)|
 | class10   |[](class10)|
 | class11   |[](class11)|
 | class12   |[](class12)|
