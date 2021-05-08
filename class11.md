@@ -1,6 +1,6 @@
 
 # HTML
-### Images
+## Images
 #### You can control the size of an image using the width and height properties in CSS, just like you can for any other box.
 #### First you need to determine the sizes of images that will be used commonly throughout the site, then give each size a name.
 #### Where the < img> elements appear in the HTML, rather than using width and height attributes you can use these names as values for the class attribute.
@@ -10,7 +10,7 @@
 #### By default, images are inline elements. This means that they flow within the surrounding text. In order to center an image, it should be turned into a block- level element using the display property with a value of block.
 #### The background-image property allows you to place an image behind any HTML element. This could be the entire page or just part of the page. By default, a background image will repeat to fill the entire box.
 #### page 414 has a lot of info on how to adj the background image please take note of this page *
-### Practical Information
+## Practical Information
 #### Search engine optimization (or SEO) is the practice of trying to help your site appear nearer the top of search engine results when people look for the topics that your website covers.
 #### List down the words that someone might type into Google to find your site. Be sure to include the various topics, products or services your site is about.
 #### Group the keywords into separate lists for the different sections or categories of your website.
