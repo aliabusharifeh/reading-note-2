@@ -9,7 +9,7 @@
 | class08   |[layout](class08)|
 | class09   |[forms&events](class09)|
 | class10   |[Error Handling and Debugging](class10)|
-| class11   |[](class11)|
+| class11   |[image&practical info](class11)|
 | class12   |[](class12)|
 | class13   |[](class13)|
 | class14   |[](class14)|
