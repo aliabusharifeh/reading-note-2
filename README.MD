@@ -11,6 +11,6 @@
 | class10   |[Error Handling and Debugging](class10)|
 | class11   |[image&practical info](class11)|
 | class12   |[Docs for the HTML `<canvas> `Element & Chart.js](class12)|
-| class13   |[](class13)|
+| class13   |[local storage](class13)|
 | class14   |[](class14)|
 | class15   |[](class15)|
