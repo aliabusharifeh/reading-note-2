@@ -12,5 +12,5 @@
 | class11   |[image&practical info](class11)|
 | class12   |[Docs for the HTML `<canvas> `Element & Chart.js](class12)|
 | class13   |[local storage](class13)|
-| class14   |[](class14)|
+| class14a   |[CSS Transforms, Transitions, and Animations](class14a)|
 | class15   |[](class15)|
